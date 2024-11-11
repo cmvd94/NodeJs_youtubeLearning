@@ -1,0 +1,42 @@
+GET http://localhost:3500/employees
+
+###
+POST http://localhost:3500/employees
+Content-Type: application/json
+
+{
+  "name": "tarshan",
+  "age": 2,
+  "email": "tarshan@gmail.com",
+  "hobbies": [
+    "TV",
+    "crying"
+  ]
+  
+}
+###
+POST http://localhost:3500/employees
+Content-Type: application/json
+
+{
+    "firstname" : "sarath",
+    "lastname" : "krishnan"
+}
+
+###
+PUT http://localhost:3500/employees/
+Content-Type: application/json
+
+{
+    "id":1,
+    "firstname" : "cm vishnu",
+    "lastname" : "das"
+}
+###
+DELETE http://localhost:3500/employees
+Content-Type: application/json
+
+{
+    "id":5
+}
+

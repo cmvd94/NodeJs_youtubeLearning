@@ -1,0 +1,22 @@
+{
+  "name": "05tut",
+  "version": "1.0.0",
+  "description": "Node.js Web Server tutorial",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon server_application"
+  },
+  "author": "Dave Gray",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "date-fns": "^2.30.0",
+    "express": "^4.19.2",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "mongoose": "^8.5.1",
+    "nodemon": "^2.0.22"
+  }
+}

@@ -1,0 +1,45 @@
+20240719	21:29:24	6b980379-72e5-406e-8d2f-efc3af4e013c	Error: not allowed by cors
+20240719	21:29:24	e29358a3-2fb7-48a9-8f21-54b863a0e3ad	Error: not allowed by cors
+20240719	21:39:24	484dc838-2ad7-49ce-bd62-63d92966730f	Error: not allowed by cors
+20240719	21:39:24	d7fdce32-9d22-4d83-84a5-9dbaab2deb84	Error: not allowed by cors
+20240719	21:39:25	a40dedfe-ca49-4d88-a5e0-b49097d1dff5	Error: not allowed by cors
+20240719	21:41:40	b5e32074-d0bc-4890-a1af-f1c736a45d3d	Error: not allowed by cors
+20240719	21:41:40	df340644-cfaf-45b6-a860-309ec9d41dea	Error: not allowed by cors
+20240719	21:41:45	0651eacb-7110-4016-b77f-75a545cc6851	Error: not allowed by cors
+20240719	21:41:45	4dc92188-d7d9-49d2-9a60-1fb5b3072958	Error: not allowed by cors
+20240719	22:39:29	404af0aa-950e-498e-ae6a-6124dcbb8e4d	Error: ENOENT: no such file or directory, stat 'C:\Users\vishnudas\Documents\node js balachandra course\express\routes\views\index.html'
+20240720	16:09:32	3ceffcc6-726e-4bbb-bc11-e3e5605f3807	TypeError: Cannot read properties of undefined (reading 'firstname')
+20240720	17:33:35	d351a890-ede5-4c25-bfbd-bb22b0d58815	SyntaxError: Unexpected non-whitespace character after JSON at position 62
+20240720	17:34:14	94dfe4b3-f11b-4c38-a96d-094b28b711ac	SyntaxError: Unexpected non-whitespace character after JSON at position 62
+20240720	17:34:43	71dd4e5a-71ef-4d16-a05f-d64ec0394c7b	SyntaxError: Unexpected non-whitespace character after JSON at position 62
+20240720	17:34:56	23044f91-ef74-4db1-bea1-c03d25feef57	SyntaxError: Unexpected non-whitespace character after JSON at position 62
+20240720	15:50:52	1ebc2cab-e6c9-400e-ba4b-b7efc96e3f2e	TypeError: Cannot convert undefined or null to object
+20240720	15:51:09	4b7db21c-44a6-4cce-a243-b1a27c06d6d9	TypeError: Cannot convert undefined or null to object
+20240720	15:53:23	98b92beb-4426-4ef9-8a7e-66c861530c14	TypeError: Cannot convert undefined or null to object
+20240723	20:35:50	4671eec0-7864-4da3-bb9b-d20f578c7933	Error: Cannot find module 'mongoose'
+Require stack:
+- C:\Users\vishnudas\Documents\node js balachandra course\all_in_one_example\db\access_employee_db\get_all_employee.js
+- C:\Users\vishnudas\Documents\node js balachandra course\all_in_one_example\controllers\employeecontroller.js
+- C:\Users\vishnudas\Documents\node js balachandra course\all_in_one_example\routes\API.js
+- C:\Users\vishnudas\Documents\node js balachandra course\all_in_one_example\server_application.js
+20240723	20:38:58	4b162104-1ff5-4f17-a2b4-d774525af34d	Error: Cannot find module 'mongoose'
+Require stack:
+- C:\Users\vishnudas\Documents\node js balachandra course\all_in_one_example\db\access_employee_db\get_all_employee.js
+- C:\Users\vishnudas\Documents\node js balachandra course\all_in_one_example\controllers\employeecontroller.js
+- C:\Users\vishnudas\Documents\node js balachandra course\all_in_one_example\routes\API.js
+- C:\Users\vishnudas\Documents\node js balachandra course\all_in_one_example\server_application.js
+20240723	20:44:02	402bd81e-679a-40fe-9a8d-87a86c1a6d8d	Error: Cannot find module 'mongoose'
+Require stack:
+- C:\Users\vishnudas\Documents\node js balachandra course\all_in_one_example\db\access_employee_db\get_all_employee.js
+- C:\Users\vishnudas\Documents\node js balachandra course\all_in_one_example\controllers\employeecontroller.js
+- C:\Users\vishnudas\Documents\node js balachandra course\all_in_one_example\routes\API.js
+- C:\Users\vishnudas\Documents\node js balachandra course\all_in_one_example\server_application.js
+20240723	20:45:46	71b06218-7212-40ea-8e02-1d9017713b4f	Error: Cannot find module 'mongoose'
+Require stack:
+- C:\Users\vishnudas\Documents\node js balachandra course\all_in_one_example\db\access_employee_db\get_all_employee.js
+- C:\Users\vishnudas\Documents\node js balachandra course\all_in_one_example\controllers\employeecontroller.js
+- C:\Users\vishnudas\Documents\node js balachandra course\all_in_one_example\routes\API.js
+- C:\Users\vishnudas\Documents\node js balachandra course\all_in_one_example\server_application.js
+20240723	20:47:33	0c73cfe9-c757-484c-95f6-cfd440213cd1	TypeError: getDbsEmployee is not a function
+20240723	21:06:20	2d4fdeb2-53ac-4525-b8ba-13b395f6e45b	TypeError: getDbsEmployee is not a function
+20240723	22:04:07	64526057-4c0a-4225-bae2-a9b21e29f939	SyntaxError: Expected double-quoted property name in JSON at position 128
